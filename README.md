@@ -1,1 +1,7 @@
 # METHOD-L-BRARY
+binarySearchIntinArray
+intselectedarraysort
+intbublearraysort
+intshufflearray
+textmaymunproof
+kelimesayısı
